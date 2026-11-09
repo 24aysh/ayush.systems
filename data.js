@@ -3,7 +3,7 @@
 
 export const PROFILE = {
   pageTitle: "ayush",
-  metaDescription: "Ayush — full stack and AI engineer. I love to make and break stuff.",
+  metaDescription: "ayush - Full stack and AI engineer. I love to make and break stuff.",
   greeting: "Hi, I'm",
   name: "ayush",
   wave: "👋",
